@@ -1,0 +1,28 @@
+name: infinity.8.visuals
+favicon: null
+layout_spectrum: 0.07403928111307323
+typography_spectrum: 0.1067237623501569
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.11467801406979561
+  lightness: 0.3910166141577065
+  saturation: 0.8931920675095171
+  rhythmicContrast: 0.3420489935670048
+purpose: []
