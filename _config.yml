@@ -1,6 +1,6 @@
 name: infinity ∞ visuals
 favicon: null
-layout_spectrum: 0.68365
+layout_spectrum: 0.23504
 typography_spectrum: 0.55354
 title: INFINITY VISUALS
 cta:
@@ -23,7 +23,7 @@ color:
     - '#888888'
     - '#515151'
   brandStrength: 0
-  lightness: 0.9375
-  saturation: 0.3125
-  rhythmicContrast: 0.5
+  lightness: 0.6875
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
