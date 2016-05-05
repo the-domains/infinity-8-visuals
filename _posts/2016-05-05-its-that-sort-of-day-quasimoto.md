@@ -1,15 +1,18 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/BE_4sF9P70P/?taken-by=juxtapozmag'
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-05-05T01:04:06.458Z'
+dateModified: '2016-05-05T01:03:52.610Z'
 author:
   - name: juxtapozmag
     url: 'https://www.instagram.com/juxtapozmag'
     avatar: {}
 related: []
-publisher:
-  name: Instagram
-  domain: www.instagram.com
-  url: 'https://www.instagram.com'
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-keywords: []
 app_links:
   - url: 'instagram://media?id=1242961342835440911'
     type: ios
@@ -25,20 +28,17 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/BE_4sF9P70P/?taken-by=juxtapozmag'
 title: "It's that sort of day. @quasimoto"
-datePublished: '2016-05-05T00:31:57.228Z'
-dateModified: '2016-05-05T00:31:43.960Z'
-description: ''
 sourcePath: _posts/2016-05-05-its-that-sort-of-day-quasimoto.md
-inFeed: true
-hasPage: false
-inNav: false
-inLanguage: null
 authors: []
-starred: true
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
+starred: false
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![It's that sort of day. @quasimoto](https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/13129990_1747512048868925_710187641_n.jpg?ig_cache_key=MTI0Mjk2MTM0MjgzNTQ0MDkxMQ%3D%3D.2)
+![It's that sort of day. @quasimoto](https://s3-us-west-2.amazonaws.com/the-grid-img/p/16caf514df26b12f0670edd69f9c39d8f0ee42bb.jpg)
