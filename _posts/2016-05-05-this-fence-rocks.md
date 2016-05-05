@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: 'this fence rocks!!!'
-datePublished: '2016-05-05T16:48:15.848Z'
-dateModified: '2016-05-05T16:48:10.832Z'
+datePublished: '2016-05-05T16:55:53.522Z'
+dateModified: '2016-05-05T16:48:23.167Z'
 author:
   - name: ''
     url: ''
