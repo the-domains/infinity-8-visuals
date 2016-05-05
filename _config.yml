@@ -6,12 +6,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.1875
   brandStrength: 0.625
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: infinity ∞ visuals
 favicon: null
+name: infinity ∞ visuals
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0
-layout_spectrum: 0.5212766
+layout_spectrum: 0.9744681
