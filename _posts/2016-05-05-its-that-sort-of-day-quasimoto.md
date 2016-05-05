@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.instagram.com'
   name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
   domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 keywords: []
 app_links:
   - url: 'instagram://media?id=1242961342835440911'
@@ -27,14 +27,16 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BE_4sF9P70P/?taken-by=juxtapozmag'
 title: "It's that sort of day. @quasimoto"
-datePublished: '2016-05-05T00:24:20.985Z'
-dateModified: '2016-05-05T00:16:35.769Z'
+datePublished: '2016-05-05T00:31:57.228Z'
+dateModified: '2016-05-05T00:31:43.960Z'
 description: ''
-starred: false
 sourcePath: _posts/2016-05-05-its-that-sort-of-day-quasimoto.md
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+authors: []
+starred: true
 _type: Photograph
 _context: 'http://schema.org'
 
