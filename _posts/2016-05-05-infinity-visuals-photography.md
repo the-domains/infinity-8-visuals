@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://www.infinityvisuals.com/'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-05T01:21:39.225Z'
-dateModified: '2016-05-05T01:21:25.325Z'
+datePublished: '2016-05-05T17:08:26.153Z'
+dateModified: '2016-05-05T16:58:26.936Z'
 author:
   - name: ''
     url: ''
@@ -21,7 +21,7 @@ publisher:
   domain: www.infinityvisuals.com
   url: 'http://www.infinityvisuals.com'
   favicon: 'http://www.infinityvisuals.com/favicon.ico'
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
