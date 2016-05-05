@@ -6,22 +6,22 @@ isBasedOnUrl: 'http://www.infinityvisuals.com/'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-05T01:20:44.897Z'
-dateModified: '2016-05-05T01:20:35.395Z'
+datePublished: '2016-05-05T01:21:39.225Z'
+dateModified: '2016-05-05T01:21:25.325Z'
 author:
   - name: ''
     url: ''
 related: []
 app_links: []
 title: INFINITY VISUALS PHOTOGRAPHY
+sourcePath: _posts/2016-05-05-infinity-visuals-photography.md
 authors: []
 publisher:
   name: I8V Napa Valley Photographer Israel Valencia
   domain: www.infinityvisuals.com
   url: 'http://www.infinityvisuals.com'
   favicon: 'http://www.infinityvisuals.com/favicon.ico'
-starred: false
-sourcePath: _posts/2016-05-05-infinity-visuals-photography.md
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
