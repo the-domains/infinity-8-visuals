@@ -6,12 +6,13 @@ isBasedOnUrl: 'https://www.facebook.com/auroracircus/photos/a.328418723968883.10
 inLanguage: null
 keywords: []
 description: 'Photo by:La Maison Aurora ‬'
-datePublished: '2016-05-08T06:24:42.906Z'
-dateModified: '2016-05-08T06:24:36.619Z'
+datePublished: '2016-05-08T06:34:16.283Z'
+dateModified: '2016-05-08T06:34:13.624Z'
 author:
   - name: ''
     url: ''
 title: ''
+sourcePath: _posts/2016-05-08-nina-sawant.md
 authors: []
 publisher:
   name: facebook.com
@@ -19,7 +20,6 @@ publisher:
   url: null
   favicon: null
 starred: true
-sourcePath: _posts/2016-05-08-nina-sawant.md
 _context: 'http://schema.org'
 _type: Article
 
