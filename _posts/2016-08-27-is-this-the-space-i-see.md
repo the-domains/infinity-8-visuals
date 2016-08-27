@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-27T06:54:32.033Z'
+datePublished: '2016-08-27T06:54:46.199Z'
 sourcePath: _posts/2016-08-27-is-this-the-space-i-see.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-27T06:54:31.574Z'
+dateModified: '2016-08-27T06:54:45.819Z'
 title: ''
 publisher: {}
 description: is this the space i see
