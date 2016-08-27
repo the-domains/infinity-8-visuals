@@ -1,5 +1,38 @@
-title: INFINITY VISUALS
-purpose: []
+typography_spectrum: 0
+color:
+  saturation: 0.6893617
+  brandStrength: 0
+  lightness: 0.1659575
+  brandColors:
+    - '#f5f5f5'
+    - '#030303'
+    - '#d2d2d2'
+    - '#888888'
+    - '#515151'
+  rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.2489362
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+author:
+  name: Israel Valencia
+  email: israelv@infinityvisuals.com
+  url: www.infinityvisuals.com
+name: 'INFINITY ∞ VISUALS '
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: HP - Star
+    id: 3793e24b-366b-4f67-b00d-108d24fd82e5
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -12,38 +45,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.6893617
-  brandStrength: 0
-  lightness: 0.1659575
-  brandColors:
-    - '#f5f5f5'
-    - '#030303'
-    - '#d2d2d2'
-    - '#888888'
-    - '#515151'
-  rhythmicContrast: 0.5
-cta:
-  bucket: null
-  version: null
-  domain: null
-navigation:
-  - name: HP - Star
-    id: 3793e24b-366b-4f67-b00d-108d24fd82e5
-    type: content
-name: infinity ∞ visuals
-author:
-  name: Israel V.
-  email: israelv@infinityvisuals.com
-  url: www.infinityvisuals.com
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-typography_spectrum: 0
-layout_spectrum: 0.2489362
+title: ''
+purpose: []
