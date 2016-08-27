@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: This is "2014 Napa Chalk Festival-Artist Amy G. Hall"
-datePublished: '2016-08-27T05:02:44.328Z'
-dateModified: '2016-08-27T05:00:58.969Z'
+datePublished: '2016-08-27T05:03:50.837Z'
+dateModified: '2016-08-27T05:02:53.116Z'
 sourcePath: _posts/2016-05-11-2014-napa-chalk-festival-artist-amy-g-hall.md
 author:
   - avatar: {}
