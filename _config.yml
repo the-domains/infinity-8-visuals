@@ -23,7 +23,7 @@ author:
   name: Israel Valencia
   email: israelv@infinityvisuals.com
   url: www.infinityvisuals.com
-name: INFINITY ∞ VISUALS - fine art photography
+name: INFINITY ∞ VISUALS
 cta:
   bucket: null
   version: null
@@ -48,5 +48,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: ''
+title: fine art photography
 purpose: []
