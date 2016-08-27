@@ -1,37 +1,14 @@
-layout_spectrum: 0
+name: infinity ∞ visuals
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e79bd0b-b474-4444-a90e-9de37646ecaa.png
+layout_spectrum: 0.20486
 typography_spectrum: 0.20859626191668212
-color:
-  brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  brandStrength: 0.10796969407238066
-  lightness: 0.5028622043319046
-  saturation: 0.4763834101613611
-  rhythmicContrast: 0.25882562110200524
-opengraph:
-  image: null
-  type: null
-  appId: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 author:
   name: Israel V.
   email: israelv@infinityvisuals.com
   url: www.infinityvisuals.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ec64f04-3f63-4fb2-9597-47167d10bd8e.jpg
-name: infinity ∞ visuals
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e79bd0b-b474-4444-a90e-9de37646ecaa.png
 collections:
   - index:
       path: /
@@ -45,4 +22,27 @@ collections:
     permalink:
       path: '/:title/'
 title: INFINITY VISUALS - living the life
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.9375
+  lightness: 0.0625
+  saturation: 0.25
+  rhythmicContrast: 0.25
 purpose: []
