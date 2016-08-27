@@ -29,7 +29,7 @@ cta:
   version: null
   domain: null
 navigation:
-  - name: i hear you
+  - name: '- i read you -'
     url: 'http://www.infinityvisuals.com/contact/'
     type: external
 favicon: null
