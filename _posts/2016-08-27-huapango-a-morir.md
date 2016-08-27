@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-27T04:18:23.037Z'
+datePublished: '2016-08-27T04:20:35.088Z'
+sourcePath: _posts/2016-08-27-huapango-a-morir.md
 inFeed: true
 isBasedOnUrl: 'http://www.loscojolites.com/about/'
 authors: []
@@ -8,10 +9,10 @@ keywords: []
 author:
   - name: '@loscojolites'
 via: {}
-dateModified: '2016-08-27T04:18:18.159Z'
+dateModified: '2016-08-27T04:20:34.553Z'
 title: ''
 publisher:
-  name: loscojolites.com
+  name: 'http://www.loscojolites.com/about/'
   domain: www.loscojolites.com
   url: null
   favicon: null
@@ -19,7 +20,6 @@ description: Huapango a Morir!
 inLanguage: null
 inNav: false
 starred: true
-sourcePath: _posts/2016-08-27-huapango-a-morir.md
 _context: 'http://schema.org'
 _type: Article
 
