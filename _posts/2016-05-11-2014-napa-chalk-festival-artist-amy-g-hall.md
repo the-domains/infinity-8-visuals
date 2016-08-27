@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-27T04:54:48.697Z'
+datePublished: '2016-08-27T04:56:07.099Z'
 sourcePath: _posts/2016-05-11-2014-napa-chalk-festival-artist-amy-g-hall.md
 inFeed: false
 hasPage: true
@@ -7,12 +7,12 @@ author:
   - avatar: {}
     name: 'Israel Valencia '
 via: {}
-dateModified: '2016-08-27T04:54:48.237Z'
+dateModified: '2016-08-27T04:56:06.630Z'
 title: 2014 Napa Chalk Festival-Artist Amy G. Hall
 id: 252cfa14-d051-4a33-a3ef-d9bebefa6421
 publisher: {}
 description: This is "2014 Napa Chalk Festival-Artist Amy G. Hall"
-starred: false
+starred: true
 url: 2014-napa-chalk-festival-artist-amy-g-hall/index.html
 _type: MediaObject
 
