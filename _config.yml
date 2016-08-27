@@ -23,12 +23,15 @@ author:
   name: Israel V.
   email: israelv@infinityvisuals.com
   url: www.infinityvisuals.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ec64f04-3f63-4fb2-9597-47167d10bd8e.jpg
 name: infinity ∞ visuals
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e79bd0b-b474-4444-a90e-9de37646ecaa.png
 collections:
   - index:
       path: /
