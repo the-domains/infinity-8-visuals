@@ -32,6 +32,9 @@ navigation:
   - name: '- i read you -'
     url: 'http://www.infinityvisuals.com/contact/'
     type: external
+  - name: '- pics -'
+    url: 'https://thegrid.ai/test-u01je/'
+    type: external
 favicon: null
 collections:
   - index:
