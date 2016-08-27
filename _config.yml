@@ -28,10 +28,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: HP - Star
-    id: 3793e24b-366b-4f67-b00d-108d24fd82e5
-    type: content
 favicon: null
 collections:
   - index:
