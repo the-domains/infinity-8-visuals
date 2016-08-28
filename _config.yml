@@ -13,16 +13,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.6893617
+  saturation: 0
   brandStrength: 0
-  rhythmicContrast: 0.5
+  lightness: 0
   brandColors:
     - '#f5f5f5'
     - '#030303'
     - '#d2d2d2'
     - '#888888'
     - '#515151'
-  lightness: 0.1659575
+  rhythmicContrast: 0.8
 cta:
   bucket: null
   version: null
@@ -34,12 +34,12 @@ navigation:
   - name: '- pics -'
     url: 'https://thegrid.ai/test-u01je/'
     type: external
-favicon: null
+name: INFINITY ∞ VISUALS - fine art photography - more
 author:
   name: Israel Valencia
   email: israelv@infinityvisuals.com
   url: www.infinityvisuals.com
-name: INFINITY ∞ VISUALS - fine art photography - more
+favicon: null
 opengraph:
   image: null
   type: null
