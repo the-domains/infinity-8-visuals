@@ -34,12 +34,12 @@ navigation:
   - name: '- pics -'
     url: 'https://thegrid.ai/test-u01je/'
     type: external
-name: INFINITY ∞ VISUALS - fine art photography - more
+favicon: null
 author:
   name: Israel Valencia
   email: israelv@infinityvisuals.com
   url: www.infinityvisuals.com
-favicon: null
+name: INFINITY ∞ VISUALS - fine art photography - more
 opengraph:
   image: null
   type: null
@@ -49,4 +49,4 @@ analytics:
   google: null
   facebook: null
 typography_spectrum: 0
-layout_spectrum: 0
+layout_spectrum: 0.1595745
