@@ -1,3 +1,16 @@
+layout_spectrum: 0.17839230364188552
+typography_spectrum: 0.5693659058306366
+color:
+  saturation: 0
+  brandStrength: 0
+  lightness: 0
+  brandColors:
+    - '#f5f5f5'
+    - '#030303'
+    - '#d2d2d2'
+    - '#888888'
+    - '#515151'
+  rhythmicContrast: 0.8
 title: ''
 purpose: []
 collections:
@@ -12,17 +25,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0
-  brandStrength: 0
-  lightness: 0
-  brandColors:
-    - '#f5f5f5'
-    - '#030303'
-    - '#d2d2d2'
-    - '#888888'
-    - '#515151'
-  rhythmicContrast: 0.8
 cta:
   bucket: null
   version: null
@@ -48,5 +50,3 @@ analytics:
   twitter: null
   google: null
   facebook: null
-typography_spectrum: 0
-layout_spectrum: 0.4319149
