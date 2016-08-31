@@ -23,7 +23,7 @@ author:
   name: Israel Valencia
   email: israelv@infinityvisuals.com
   url: www.infinityvisuals.com
-name: INFINITY ∞ VISUALS - fine art photography - more
+name: INFINITY ∞ VISUALS - Israel V.
 cta:
   bucket: null
   version: null
@@ -35,7 +35,7 @@ navigation:
   - name: '- pics -'
     url: 'https://thegrid.ai/test-u01je/'
     type: external
-  - name: Music
+  - name: '- Music -'
     id: e0be4d43-d941-4a33-8466-bd95073d9cd1
     type: content
 favicon: null
