@@ -1,13 +1,12 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.instagram.com/p/BE_4sF9P70P/?taken-by=juxtapozmag'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-25T16:51:51.372Z'
-dateModified: '2016-05-05T01:04:15.283Z'
+datePublished: '2016-08-29T06:36:32.074Z'
+dateModified: '2016-08-29T06:36:31.539Z'
 author:
   - name: juxtapozmag
     url: 'https://www.instagram.com/juxtapozmag'
@@ -37,7 +36,9 @@ publisher:
   url: 'https://www.instagram.com'
   favicon: >-
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico
+via: {}
 starred: false
+url: its-that-sort-of-day-quasimoto/index.html
 _type: Photograph
 _context: 'http://schema.org'
 
