@@ -2,12 +2,12 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
-description: 'this fence rocks!!!'
-datePublished: '2016-05-05T22:54:54.230Z'
-dateModified: '2016-05-05T22:54:25.638Z'
+description: this fence rocks!!!
+datePublished: '2016-08-29T05:45:20.889Z'
+dateModified: '2016-05-05T22:54:54.758Z'
 author:
   - name: ''
     url: ''
@@ -23,6 +23,6 @@ starred: false
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0df3f526-c583-4b73-aa7a-6c059e02ffa9.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ed5697a6e19a73da0d7431005355fef14fbb992.jpg)
 
 this fence rocks!!!
