@@ -38,9 +38,6 @@ navigation:
   - name: '- Music -'
     id: e0be4d43-d941-4a33-8466-bd95073d9cd1
     type: content
-  - name: Music
-    id: d5d94260-bae9-45b1-8ab2-928d59d779da
-    type: content
 favicon: null
 collections:
   - index:
