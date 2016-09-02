@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-30T17:43:17.831Z'
+datePublished: '2016-08-30T17:48:09.548Z'
 sourcePath: _posts/2016-08-29-nature-photo-week-day2-untitled.md
 inFeed: false
 authors: []
@@ -11,7 +11,7 @@ author:
     url: 'https://www.instagram.com/israelv_i8v'
     avatar: {}
 via: {}
-dateModified: '2016-08-30T17:43:17.406Z'
+dateModified: '2016-08-30T17:48:09.076Z'
 title: 'Nature photo week day#2 -"untitled"'
 app_links:
   - url: 'instagram://media?id=1288650034170300861'
@@ -37,7 +37,7 @@ publisher:
 description: ''
 inLanguage: null
 inNav: false
-starred: false
+starred: true
 url: nature-photo-week-day2-untitled/index.html
 _context: 'http://schema.org'
 _type: Photograph
